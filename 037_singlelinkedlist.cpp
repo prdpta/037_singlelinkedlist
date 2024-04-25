@@ -179,3 +179,8 @@ int main() {
                 break;
             case 5:
                 break;
+            deafult:
+                cout << "Pilihan tidak ada" << endl;
+                break;
+            }
+        }
